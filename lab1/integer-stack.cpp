@@ -25,8 +25,7 @@ void peek(){
     }
     else{
     cout<<"Data in to p of stack is : "<< stack[tos] <<endl;
-   
-}
+    }
 }
 void push()
 {
