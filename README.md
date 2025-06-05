@@ -1,2 +1,3 @@
 # DSA-LAB
-code of lab from dsa
+This repo contains the problems we performed on the lab of DSA
+
