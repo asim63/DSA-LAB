@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
-int fact(int n){
-    int fact;
+long double fact(int n){
+    long double fact;
     for(int i = 1;i<=n;i++)
     {
         fact= fact*i;    
